@@ -1,1 +1,1 @@
-my frist readme
+my frist Readme
